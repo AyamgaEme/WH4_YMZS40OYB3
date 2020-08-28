@@ -1,4 +1,4 @@
-let url = 'http://localhost:5000/';
+let url = 'https://emelia-covid-app.herokuapp.com/';
 let cases = [];
 let totalCases = 0
 let totalRecovered = 0
